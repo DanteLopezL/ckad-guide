@@ -5,13 +5,36 @@ Guide for the CKAD linux foundation certificate exam
 ## Docker
 
 - save image in tar file
+- export image in tar file
+- load image fron tar file
 
 ## Vim
 
 - insert
+
+```bash
+i
+```
+
 - delete
+
+```bash
+dd
+```
+
 - copy
+
+```bash
+yy
+```
+
 - paste
+
+```bash
+ctrl + v
+p
+```
+
 - cut
 - search
 
@@ -28,6 +51,7 @@ Guide for the CKAD linux foundation certificate exam
 - service account
 - nodeport & cluster ip
 - role & role binding
+- persistent volume and claims
 
 ## tasks
 
