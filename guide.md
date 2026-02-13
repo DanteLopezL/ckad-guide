@@ -5,8 +5,22 @@ Guide for the CKAD linux foundation certificate exam
 ## Docker
 
 - save image in tar file
+
+```bash
+docker save IMAGE > NAME.tar
+```
+
 - export image in tar file
+
+```bash
+docker export IMAGE > NAME.tar
+```
+
 - load image fron tar file
+
+```bash
+docker load -i FILE.tar
+```
 
 ## Vim
 
@@ -36,7 +50,16 @@ p
 ```
 
 - cut
+
+```bash
+yy + dd + p
+```
+
 - search
+
+```bash
+esc + : + /
+```
 
 ## k8s
 
